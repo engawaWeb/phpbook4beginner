@@ -10,7 +10,7 @@
     <?php
         echo('<h2 style="font-size:110%; font-weight:bold;">画面にHTMLを表示します。</h2>');
         echo('<p>PHPはHTMLの中に埋め込んで記述することができます。</p>');
-        echo('<p>が偉業するときは、<br>brタグを記述します。</p>');
+        echo('<p>改行するときは、<br>brタグを記述します。</p>');
     ?>
 </body>
 </html>
