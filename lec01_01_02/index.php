@@ -7,10 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        echo('PHPを勉強中です！');
-        echo("¥n");
-        echo('改行を表します');
-        ?>
+    <?php echo('PHPを勉強中です！'); ?>
 </body>
 </html>
