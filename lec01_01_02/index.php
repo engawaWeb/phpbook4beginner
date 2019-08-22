@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo('PHPを勉強中です！'); ?>
+    <?php
+        echo('<h2 style="font-size:110%; font-weight:bold;">画面にHTMLを表示します。</h2>');
+        echo('<p>PHPはHTMLの中に埋め込んで記述することができます。</p>');
+        echo('<p>が偉業するときは、<br>brタグを記述します。</p>');
+    ?>
 </body>
 </html>
